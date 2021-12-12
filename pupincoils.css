@@ -1,0 +1,22 @@
+section {
+        display: inline-block;
+        width: 20%;
+        padding: 0 8px 0 0;
+        margin-bottom: 8px;
+	font-style: italic;
+      }
+ 
+ aside {
+        display: inline-block;
+        width: 60%;
+        vertical-align: top;
+	background-color: #808080;
+	color: white;
+        padding: 0 0 0 8px;
+	font-size: 14pt;
+	font-family: Times New Roman;
+	text-indent: 10px;
+        }
+ img    {
+	float: left;
+       }
